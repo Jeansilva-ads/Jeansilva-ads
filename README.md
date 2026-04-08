@@ -23,3 +23,11 @@ Meu objetivo é concluir a formação de 300h do SENAI e ingressar no mercado de
 📫 **Como me encontrar:**
 [LinkedIn](https://www.linkedin.com/in/jean-silva-16bb71186?utm_source=share_via&utm_content=profile&utm_medium=member_ios) 
 [E-mail](jeanavlis05@gmail.com)
+
+
+### 🚀 Minha Jornada no SCTEC (Carreira Tech)
+Atualmente participando do ciclo de formação do **SCTEC/SC** para acelerar minha entrada no mercado de tecnologia.
+
+- **[07/04/2026]** - Palestra: **Desenvolvimento de Software: O poder de criar onde tudo começa.**
+  - *O que aprendi:* A essência de que toda tecnologia nasce de um problema e a divisão fundamental entre Front-end, Back-end e Banco de Dados.
+  - *Status:* 2h de carga horária concluídas e pontos garantidos para a etapa Profissionalizar! ✅
